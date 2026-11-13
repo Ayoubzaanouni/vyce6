@@ -6,3 +6,4 @@ h1 { font-size: 1.8rem; line-height: 1.2; }
 h2 { font-size: 1.15rem; margin-top: 2rem; }
 em { color: var(--muted); }
 a { color: var(--link); }
+.logo { display: block; width: 160px; height: auto; margin: 0 0 1rem; }
